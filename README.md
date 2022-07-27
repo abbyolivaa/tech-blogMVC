@@ -21,6 +21,8 @@
     
   # Description
   This application serves as a blog/forum type of social media platform where users can talk about the latest technological news
+  
+  <img width="1440" alt="image" src="https://user-images.githubusercontent.com/100249688/181156024-81630055-a113-483d-ad4c-6289e350b478.png">
 
 
   # Installation Instructions
